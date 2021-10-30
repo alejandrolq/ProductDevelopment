@@ -8,7 +8,7 @@
 
 **Sección U**
 
-A continuación se muestran la clase de Docker. Los cuales estan divididos en:
+A continuación se muestran los archivos de la clase de Docker. Los cuales estan divididos en:
 
 - Clase_docke: Contiene todos los comandos utilizados en Docker. - [Clase_docker.ipynb](https://github.com/alejandrolq/ProductDevelopment/blob/main/docker/Clase_docker.ipynb "Clase Docker")
 - Jupyter_Docker: Contiene los comandos ejecutados en el notebook creado con el contenedor de la imagen de Jupyter. - [Jupyter_Docker.ipynb](https://github.com/alejandrolq/ProductDevelopment/blob/main/docker/Jupyter_Docker.ipynb "Jupyter Docker")
